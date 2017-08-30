@@ -1,0 +1,450 @@
+
+1: Jonke Z, Legenstein R, Habenschuss S, Maass W. Feedback inhibition shapes
+emergent computational properties of cortical microcircuit motifs. J Neurosci.
+2017 Jul 31. pii: 2078-16. doi: 10.1523/JNEUROSCI.2078-16.2017. [Epub ahead of
+print] PubMed PMID: 28760861.
+
+
+2: Kobayashi T, Shimada Y, Fujiwara K, Ikeguchi T. Reproducing Infra-Slow
+Oscillations with Dopaminergic Modulation. Sci Rep. 2017 May 25;7(1):2411. doi:
+10.1038/s41598-017-02366-z. PubMed PMID: 28546544; PubMed Central PMCID:
+PMC5445087.
+
+
+3: Valtcheva S, Paillé V, Dembitskaya Y, Perez S, Gangarossa G, Fino E, Venance
+L. Developmental control of spike-timing-dependent plasticity by tonic GABAergic 
+signaling in striatum. Neuropharmacology. 2017 Jul 15;121:261-277. doi:
+10.1016/j.neuropharm.2017.04.012. Epub 2017 Apr 10. PubMed PMID: 28408325.
+
+
+4: Liu Y, Cui L, Schwarz MK, Dong Y, Schlüter OM. Adrenergic Gate Release for
+Spike Timing-Dependent Synaptic Potentiation. Neuron. 2017 Jan 18;93(2):394-408. 
+doi: 10.1016/j.neuron.2016.12.039. PubMed PMID: 28103480; PubMed Central PMCID:
+PMC5267933.
+
+
+5: Lebida K, Mozrzymas JW. Spike Timing-Dependent Plasticity in the Mouse Barrel 
+Cortex Is Strongly Modulated by Sensory Learning and Depends on Activity of
+Matrix Metalloproteinase 9. Mol Neurobiol. 2016 Oct 15. [Epub ahead of print]
+PubMed PMID: 27744572.
+
+
+6: Park J, Kwon MW, Kim H, Park BG. Neuromorphic System Based on CMOS Inverters
+and Si-Based Synaptic Device. J Nanosci Nanotechnol. 2016 May;16(5):4709-12.
+PubMed PMID: 27483811.
+
+
+7: Pecevski D, Maass W. Learning Probabilistic Inference through
+Spike-Timing-Dependent Plasticity. eNeuro. 2016 Jun 21;3(2). pii:
+ENEURO.0048-15.2016. doi: 10.1523/ENEURO.0048-15.2016. eCollection 2016 Mar-Apr. 
+PubMed PMID: 27419214; PubMed Central PMCID: PMC4916275.
+
+
+8: Jędrzejewska-Szmek J, Damodaran S, Dorman DB, Blackwell KT. Calcium dynamics
+predict direction of synaptic plasticity in striatal spiny projection neurons.
+Eur J Neurosci. 2017 Apr;45(8):1044-1056. doi: 10.1111/ejn.13287. Epub 2016 Jun
+15. PubMed PMID: 27233469; PubMed Central PMCID: PMC5124545.
+
+
+9: Garrido JA, Luque NR, Tolu S, D'Angelo E. Oscillation-Driven Spike-Timing
+Dependent Plasticity Allows Multiple Overlapping Pattern Recognition in
+Inhibitory Interneuron Networks. Int J Neural Syst. 2016 Aug;26(5):1650020. doi: 
+10.1142/S0129065716500209. Epub 2016 Apr 15. PubMed PMID: 27079422.
+
+
+10: Babadi B, Abbott LF. Stability and Competition in Multi-spike Models of
+Spike-Timing Dependent Plasticity. PLoS Comput Biol. 2016 Mar 3;12(3):e1004750.
+doi: 10.1371/journal.pcbi.1004750. eCollection 2016 Mar. PubMed PMID: 26939080;
+PubMed Central PMCID: PMC4777380.
+
+
+11: Krunglevicius D. Competitive STDP Learning of Overlapping Spatial Patterns.
+Neural Comput. 2015 Aug;27(8):1673-85. doi: 10.1162/NECO_a_00753. Epub 2015 Jun
+16. PubMed PMID: 26079753.
+
+
+12: Authement ME, Kodangattil JN, Gouty S, Rusnak M, Symes AJ, Cox BM, Nugent FS.
+Histone Deacetylase Inhibition Rescues Maternal Deprivation-Induced GABAergic
+Metaplasticity through Restoration of AKAP Signaling. Neuron. 2015 Jun
+3;86(5):1240-52. doi: 10.1016/j.neuron.2015.05.024. PubMed PMID: 26050042.
+
+
+13: Hiratani N, Fukai T. Mixed signal learning by spike correlation propagation
+in feedback inhibitory circuits. PLoS Comput Biol. 2015 Apr 24;11(4):e1004227.
+doi: 10.1371/journal.pcbi.1004227. eCollection 2015 Apr. PubMed PMID: 25910189;
+PubMed Central PMCID: PMC4409403.
+
+
+14: Kirkwood A. Balancing excitation and inhibition. Neuron. 2015 Apr
+22;86(2):348-50. doi: 10.1016/j.neuron.2015.04.009. PubMed PMID: 25905806.
+
+
+15: D'amour JA, Froemke RC. Inhibitory and excitatory spike-timing-dependent
+plasticity in the auditory cortex. Neuron. 2015 Apr 22;86(2):514-28. doi:
+10.1016/j.neuron.2015.03.014. Epub 2015 Apr 2. PubMed PMID: 25843405; PubMed
+Central PMCID: PMC4409545.
+
+
+16: Hoshino O. Regulation of Local Ambient GABA Levels via Transporter-Mediated
+GABA Import and Export for Subliminal Learning. Neural Comput. 2015
+Jun;27(6):1223-51. doi: 10.1162/NECO_a_00733. Epub 2015 Mar 16. PubMed PMID:
+25774546.
+
+
+17: Saudargienė A, Graham BP. Inhibitory control of site-specific synaptic
+plasticity in a model CA1 pyramidal neuron. Biosystems. 2015 Apr;130:37-50. doi: 
+10.1016/j.biosystems.2015.03.001. Epub 2015 Mar 10. PubMed PMID: 25769669.
+
+
+18: Diehl PU, Cook M. Unsupervised learning of digit recognition using
+spike-timing-dependent plasticity. Front Comput Neurosci. 2015 Aug 3;9:99. doi:
+10.3389/fncom.2015.00099. eCollection 2015. PubMed PMID: 26941637; PubMed Central
+PMCID: PMC4522567.
+
+
+19: Skorheim S, Razak K, Bazhenov M. Network models of frequency modulated sweep 
+detection. PLoS One. 2014 Dec 16;9(12):e115196. doi:
+10.1371/journal.pone.0115196. eCollection 2014. Erratum in: PLoS One.
+2015;10(8):e0136010. PubMed PMID: 25514021; PubMed Central PMCID: PMC4267816.
+
+
+20: Cheron G, Márquez-Ruiz J, Kishino T, Dan B. Disruption of the LTD dialogue
+between the cerebellum and the cortex in Angelman syndrome model: a timing
+hypothesis. Front Syst Neurosci. 2014 Nov 19;8:221. doi:
+10.3389/fnsys.2014.00221. eCollection 2014. PubMed PMID: 25477791; PubMed Central
+PMCID: PMC4237040.
+
+
+21: Ji X, Martin GE. BK channels mediate dopamine inhibition of firing in a
+subpopulation of core nucleus accumbens medium spiny neurons. Brain Res. 2014 Nov
+7;1588:1-16. doi: 10.1016/j.brainres.2014.09.015. Epub 2014 Sep 16. PubMed PMID: 
+25219484; PubMed Central PMCID: PMC4252357.
+
+
+22: Kleberg FI, Fukai T, Gilson M. Excitatory and inhibitory STDP jointly tune
+feedforward neural circuits to selectively propagate correlated spiking activity.
+Front Comput Neurosci. 2014 May 7;8:53. doi: 10.3389/fncom.2014.00053.
+eCollection 2014. PubMed PMID: 24847242; PubMed Central PMCID: PMC4019846.
+
+
+23: Rumbell T, Denham SL, Wennekers T. A spiking self-organizing map combining
+STDP, oscillations, and continuous learning. IEEE Trans Neural Netw Learn Syst.
+2014 May;25(5):894-907. doi: 10.1109/TNNLS.2013.2283140. PubMed PMID: 24808036.
+
+
+24: Ruan H, Saur T, Yao WD. Dopamine-enabled anti-Hebbian timing-dependent
+plasticity in prefrontal circuitry. Front Neural Circuits. 2014 Apr 23;8:38. doi:
+10.3389/fncir.2014.00038. eCollection 2014. PubMed PMID: 24795571; PubMed Central
+PMCID: PMC4005942.
+
+
+25: Groen MR, Paulsen O, Pérez-Garci E, Nevian T, Wortel J, Dekker MP, Mansvelder
+HD, van Ooyen A, Meredith RM. Development of dendritic tonic GABAergic inhibition
+regulates excitability and plasticity in CA1 pyramidal neurons. J Neurophysiol.
+2014 Jul 15;112(2):287-99. doi: 10.1152/jn.00066.2014. Epub 2014 Apr 23. PubMed
+PMID: 24760781; PubMed Central PMCID: PMC4064406.
+
+
+26: Kappel D, Nessler B, Maass W. STDP installs in Winner-Take-All circuits an
+online approximation to hidden Markov model learning. PLoS Comput Biol. 2014 Mar 
+27;10(3):e1003511. doi: 10.1371/journal.pcbi.1003511. eCollection 2014 Mar.
+PubMed PMID: 24675787; PubMed Central PMCID: PMC3967926.
+
+
+27: Tal A, Peled N, Siegelmann HT. Biologically inspired load balancing mechanism
+in neocortical competitive learning. Front Neural Circuits. 2014 Mar 11;8:18.
+doi: 10.3389/fncir.2014.00018. eCollection 2014. PubMed PMID: 24653679; PubMed
+Central PMCID: PMC3949291.
+
+
+28: Miller A, Jin DZ. Potentiation decay of synapses and length distributions of 
+synfire chains self-organized in recurrent neural networks. Phys Rev E Stat
+Nonlin Soft Matter Phys. 2013 Dec;88(6):062716. Epub 2013 Dec 18. PubMed PMID:
+24483495.
+
+
+29: Cutsuridis V. Bursts shape the NMDA-R mediated spike timing dependent
+plasticity curve: role of burst interspike interval and GABAergic inhibition.
+Cogn Neurodyn. 2012 Oct;6(5):421-41. doi: 10.1007/s11571-012-9205-1. Epub 2012
+May 27. PubMed PMID: 24082963; PubMed Central PMCID: PMC3438326.
+
+
+30: Huang S, Huganir RL, Kirkwood A. Adrenergic gating of Hebbian
+spike-timing-dependent plasticity in cortical interneurons. J Neurosci. 2013 Aug 
+7;33(32):13171-8. doi: 10.1523/JNEUROSCI.5741-12.2013. PubMed PMID: 23926270;
+PubMed Central PMCID: PMC3735889.
+
+
+31: Khazipov R, Minlebaev M, Valeeva G. Early gamma oscillations. Neuroscience.
+2013 Oct 10;250:240-52. doi: 10.1016/j.neuroscience.2013.07.019. Epub 2013 Jul
+17. Review. PubMed PMID: 23872391.
+
+
+32: Weise D, Mann J, Ridding M, Eskandar K, Huss M, Rumpf JJ, Di Lazzaro V,
+Mazzone P, Ranieri F, Classen J. Microcircuit mechanisms involved in paired
+associative stimulation-induced depression of corticospinal excitability. J
+Physiol. 2013 Oct 1;591(19):4903-20. doi: 10.1113/jphysiol.2013.253989. Epub 2013
+Jul 15. PubMed PMID: 23858008; PubMed Central PMCID: PMC3800462.
+
+
+33: Klampfl S, Maass W. Emergence of dynamic memory traces in cortical
+microcircuit models through STDP. J Neurosci. 2013 Jul 10;33(28):11515-29. doi:
+10.1523/JNEUROSCI.5044-12.2013. PubMed PMID: 23843522.
+
+
+34: Habenschuss S, Puhr H, Maass W. Emergence of optimal decoding of population
+codes through STDP. Neural Comput. 2013 Jun;25(6):1371-407. doi:
+10.1162/NECO_a_00446. Epub 2013 Mar 21. PubMed PMID: 23517096.
+
+
+35: Takkala P, Woodin MA. Muscarinic acetylcholine receptor activation prevents
+disinhibition-mediated LTP in the hippocampus. Front Cell Neurosci. 2013 Feb
+28;7:16. doi: 10.3389/fncel.2013.00016. eCollection 2013. PubMed PMID: 23450426; 
+PubMed Central PMCID: PMC3584297.
+
+
+36: Conde V, Vollmann H, Taubert M, Sehm B, Cohen LG, Villringer A, Ragert P.
+Reversed timing-dependent associative plasticity in the human brain through
+interhemispheric interactions. J Neurophysiol. 2013 May;109(9):2260-71. doi:
+10.1152/jn.01004.2012. Epub 2013 Feb 13. PubMed PMID: 23407353; PubMed Central
+PMCID: PMC3652216.
+
+
+37: Schabrun SM, Weise D, Ridding MC, Classen J. A new temporal window for
+inducing depressant associative plasticity in human primary motor cortex. Clin
+Neurophysiol. 2013 Jun;124(6):1196-203. doi: 10.1016/j.clinph.2013.01.004. Epub
+2013 Feb 8. PubMed PMID: 23395598.
+
+
+38: Lu MK, Tsai CH, Ziemann U. Cerebellum to motor cortex paired associative
+stimulation induces bidirectional STDP-like plasticity in human motor cortex.
+Front Hum Neurosci. 2012 Sep 19;6:260. doi: 10.3389/fnhum.2012.00260. eCollection
+2012. PubMed PMID: 23049508; PubMed Central PMCID: PMC3446544.
+
+
+39: Jang HJ, Kwag J. GABAA receptor-mediated feedforward and feedback inhibition 
+differentially modulate hippocampal spike timing-dependent plasticity. Biochem
+Biophys Res Commun. 2012 Oct 26;427(3):466-72. doi: 10.1016/j.bbrc.2012.08.081.
+Epub 2012 Aug 24. PubMed PMID: 22940549.
+
+
+40: Zhang Y, Magnus G, Han VZ. Synaptic dynamics and long-term plasticity at
+synapses of Purkinje cells onto neighboring Purkinje cells of a mormyrid fish: a 
+dual cell recording study. Neuroscience. 2012 Dec 6;225:199-212. doi:
+10.1016/j.neuroscience.2012.08.020. Epub 2012 Aug 18. PubMed PMID: 22906478.
+
+
+41: Cutsuridis V. Interaction of inhibition and triplets of excitatory spikes
+modulates the NMDA-R-mediated synaptic plasticity in a computational model of
+spike timing-dependent plasticity. Hippocampus. 2013 Jan;23(1):75-86. doi:
+10.1002/hipo.22057. Epub 2012 Jul 31. PubMed PMID: 22851353.
+
+
+42: Gilson M, Bürck M, Burkitt AN, van Hemmen JL. Frequency selectivity emerging 
+from spike-timing-dependent plasticity. Neural Comput. 2012 Sep;24(9):2251-79.
+doi: 10.1162/NECO_a_00331. Epub 2012 Jun 26. PubMed PMID: 22734488.
+
+
+43: Samura T, Hayashi H. Directional spike propagation in a recurrent network:
+dynamical firewall as anisotropic recurrent inhibition. Neural Netw. 2012
+Sep;33:236-46. doi: 10.1016/j.neunet.2012.05.010. Epub 2012 Jun 5. PubMed PMID:
+22717450.
+
+
+44: Ma TF, Zhao XL, Cai L, Zhang N, Ren SQ, Ji F, Tian T, Lu W. Regulation of
+spike timing-dependent plasticity of olfactory inputs in mitral cells in the rat 
+olfactory bulb. PLoS One. 2012;7(4):e35001. doi: 10.1371/journal.pone.0035001.
+Epub 2012 Apr 19. PubMed PMID: 22536347; PubMed Central PMCID: PMC3334975.
+
+
+45: Burbank KS, Kreiman G. Depression-biased reverse plasticity rule is required 
+for stable learning at top-down connections. PLoS Comput Biol.
+2012;8(3):e1002393. doi: 10.1371/journal.pcbi.1002393. Epub 2012 Mar 1. PubMed
+PMID: 22396630; PubMed Central PMCID: PMC3291526.
+
+
+46: Edelmann E, Lessmann V. Dopamine Modulates Spike Timing-Dependent Plasticity 
+and Action Potential Properties in CA1 Pyramidal Neurons of Acute Rat Hippocampal
+Slices. Front Synaptic Neurosci. 2011 Nov 3;3:6. doi: 10.3389/fnsyn.2011.00006.
+eCollection 2011. PubMed PMID: 22065958; PubMed Central PMCID: PMC3207259.
+
+
+47: Bourjaily MA, Miller P. Excitatory, inhibitory, and structural plasticity
+produce correlated connectivity in random networks trained to solve
+paired-stimulus tasks. Front Comput Neurosci. 2011 Sep 12;5:37. doi:
+10.3389/fncom.2011.00037. eCollection 2011. PubMed PMID: 21991253; PubMed Central
+PMCID: PMC3170885.
+
+
+48: Zaitsev AV, Anwyl R. Inhibition of the slow afterhyperpolarization restores
+the classical spike timing-dependent plasticity rule obeyed in layer 2/3
+pyramidal cells of the prefrontal cortex. J Neurophysiol. 2012 Jan;107(1):205-15.
+doi: 10.1152/jn.00452.2011. Epub 2011 Oct 5. PubMed PMID: 21975445.
+
+
+49: Chorley P, Seth AK. Dopamine-signaled reward predictions generated by
+competitive excitation and inhibition in a spiking neural network model. Front
+Comput Neurosci. 2011 May 18;5:21. doi: 10.3389/fncom.2011.00021. eCollection
+2011. PubMed PMID: 21629770; PubMed Central PMCID: PMC3099399.
+
+
+50: Honda M, Urakubo H, Tanaka K, Kuroda S. Analysis of development of direction 
+selectivity in retinotectum by a neural circuit model with spike timing-dependent
+plasticity. J Neurosci. 2011 Jan 26;31(4):1516-27. doi:
+10.1523/JNEUROSCI.3811-10.2011. PubMed PMID: 21273436.
+
+
+51: Hayashi H, Nonaka Y. Cooperation and competition between lateral and medial
+perforant path synapses in the dentate gyrus. Neural Netw. 2011 Apr;24(3):233-46.
+doi: 10.1016/j.neunet.2010.12.004. Epub 2010 Dec 29. PubMed PMID: 21269806.
+
+
+52: Coulon A, Beslon G, Soula HA. Enhanced stimulus encoding capabilities with
+spectral selectivity in inhibitory circuits by STDP. Neural Comput. 2011
+Apr;23(4):882-908. doi: 10.1162/NECO_a_00100. Epub 2011 Jan 11. PubMed PMID:
+21222530.
+
+
+53: Babadi B, Abbott LF. Intrinsic stability of temporally shifted spike-timing
+dependent plasticity. PLoS Comput Biol. 2010 Nov 4;6(11):e1000961. doi:
+10.1371/journal.pcbi.1000961. PubMed PMID: 21079671; PubMed Central PMCID:
+PMC2973812.
+
+
+54: Gilson M, Burkitt AN, Grayden DB, Thomas DA, van Hemmen JL. Emergence of
+network structure due to spike-timing-dependent plasticity in recurrent neuronal 
+networks V: self-organization schemes and weight dependence. Biol Cybern. 2010
+Nov;103(5):365-86. doi: 10.1007/s00422-010-0405-7. Epub 2010 Sep 29. PubMed PMID:
+20882297.
+
+
+55: Cutsuridis V. GABA inhibition modulates NMDA-R mediated spike timing
+dependent plasticity (STDP) in a biophysical model. Neural Netw. 2011
+Jan;24(1):29-42. doi: 10.1016/j.neunet.2010.08.005. Epub 2010 Aug 22. PubMed
+PMID: 20832991.
+
+
+56: Kuhlman SJ, Lu J, Lazarus MS, Huang ZJ. Maturation of GABAergic inhibition
+promotes strengthening of temporally coherent inputs among convergent pathways.
+PLoS Comput Biol. 2010 Jun 3;6(6):e1000797. doi: 10.1371/journal.pcbi.1000797.
+PubMed PMID: 20532211; PubMed Central PMCID: PMC2880567.
+
+
+57: Kubota S, Kitajima T. Possible role of cooperative action of NMDA receptor
+and GABA function in developmental plasticity. J Comput Neurosci. 2010
+Apr;28(2):347-59. doi: 10.1007/s10827-010-0212-0. Epub 2010 Jan 27. PubMed PMID: 
+20107883.
+
+
+58: Nishiyama M, Togashi K, Aihara T, Hong K. GABAergic activities control spike 
+timing- and frequency-dependent long-term depression at hippocampal excitatory
+synapses. Front Synaptic Neurosci. 2010 Jun 23;2:22. doi:
+10.3389/fnsyn.2010.00022. eCollection 2010. PubMed PMID: 21423508; PubMed Central
+PMCID: PMC3059709.
+
+
+59: Balena T, Acton BA, Woodin MA. GABAergic synaptic transmission regulates
+calcium influx during spike-timing dependent plasticity. Front Synaptic Neurosci.
+2010 Jun 28;2:16. doi: 10.3389/fnsyn.2010.00016. eCollection 2010. PubMed PMID:
+21423502; PubMed Central PMCID: PMC3059687.
+
+
+60: Lamsa KP, Kullmann DM, Woodin MA. Spike-timing dependent plasticity in
+inhibitory circuits. Front Synaptic Neurosci. 2010 Jun 21;2:8. doi:
+10.3389/fnsyn.2010.00008. eCollection 2010. PubMed PMID: 21423494; PubMed Central
+PMCID: PMC3059674.
+
+
+61: Fuenzalida M, Fernández de Sevilla D, Couve A, Buño W. Role of AMPA and NMDA 
+receptors and back-propagating action potentials in spike timing-dependent
+plasticity. J Neurophysiol. 2010 Jan;103(1):47-54. doi: 10.1152/jn.00416.2009.
+Epub 2009 Oct 28. PubMed PMID: 19864442.
+
+
+62: Masquelier T, Guyonneau R, Thorpe SJ. Competitive STDP-based spike pattern
+learning. Neural Comput. 2009 May;21(5):1259-76. doi:
+10.1162/neco.2008.06-08-804. PubMed PMID: 19718815.
+
+
+63: Kubota S, Rubin J, Kitajima T. Modulation of LTP/LTD balance in STDP by an
+activity-dependent feedback mechanism. Neural Netw. 2009 Jul-Aug;22(5-6):527-35. 
+doi: 10.1016/j.neunet.2009.06.012. Epub 2009 Jun 30. PubMed PMID: 19616407.
+
+
+64: Cutsuridis V, Cobb S, Graham BP. Encoding and retrieval in a model of the
+hippocampal CA1 microcircuit. Hippocampus. 2010 Mar;20(3):423-46. doi:
+10.1002/hipo.20661. PubMed PMID: 19489002.
+
+
+65: Huo J, Murray A. The adaptation of visual and auditory integration in the
+barn owl superior colliculus with Spike Timing Dependent Plasticity. Neural Netw.
+2009 Sep;22(7):913-21. doi: 10.1016/j.neunet.2008.10.007. Epub 2008 Nov 13.
+PubMed PMID: 19084371.
+
+
+66: Iglesias J, Villa AE. Emergence of preferred firing sequences in large
+spiking neural networks during simulated neuronal development. Int J Neural Syst.
+2008 Aug;18(4):267-77. PubMed PMID: 18763727.
+
+
+67: Friedel P, van Hemmen JL. Inhibition, not excitation, is the key to
+multimodal sensory integration. Biol Cybern. 2008 Jun;98(6):597-618. doi:
+10.1007/s00422-008-0236-y. Epub 2008 May 20. PubMed PMID: 18491169.
+
+
+68: Kang S, Kitano K, Fukai T. Structure of spontaneous UP and DOWN transitions
+self-organizing in a cortical network model. PLoS Comput Biol. 2008 Mar
+7;4(3):e1000022. doi: 10.1371/journal.pcbi.1000022. PubMed PMID: 18369421; PubMed
+Central PMCID: PMC2265465.
+
+
+69: Talathi SS, Hwang DU, Ditto WL. Spike timing dependent plasticity promotes
+synchrony of inhibitory networks in the presence of heterogeneity. J Comput
+Neurosci. 2008 Oct;25(2):262-81. doi: 10.1007/s10827-008-0077-7. Epub 2008 Feb
+23. PubMed PMID: 18297384.
+
+
+70: Caporale N, Dan Y. Spike timing-dependent plasticity: a Hebbian learning
+rule. Annu Rev Neurosci. 2008;31:25-46. doi:
+10.1146/annurev.neuro.31.060407.125639. Review. PubMed PMID: 18275283.
+
+
+71: Hosaka R, Araki O, Ikeguchi T. STDP provides the substrate for igniting
+synfire chains by spatiotemporal input patterns. Neural Comput. 2008
+Feb;20(2):415-35. PubMed PMID: 18045011.
+
+
+72: Fontaine B, Peremans H. Tuning bat LSO neurons to interaural intensity
+differences through spike-timing dependent plasticity. Biol Cybern. 2007
+Oct;97(4):261-7. PubMed PMID: 17899163.
+
+
+73: Lu JT, Li CY, Zhao JP, Poo MM, Zhang XH. Spike-timing-dependent plasticity of
+neocortical excitatory synapses on inhibitory interneurons depends on target cell
+type. J Neurosci. 2007 Sep 5;27(36):9711-20. PubMed PMID: 17804631.
+
+
+74: Marinaro M, Scarpetta S, Yoshioka M. Learning of oscillatory correlated
+patterns in a cortical network by a STDP-based learning rule. Math Biosci. 2007
+Jun;207(2):322-35. Epub 2006 Oct 19. PubMed PMID: 17306840.
+
+
+75: Mu Y, Poo MM. Spike timing-dependent LTP/LTD mediates visual
+experience-dependent plasticity in a developing retinotectal system. Neuron. 2006
+Apr 6;50(1):115-25. PubMed PMID: 16600860.
+
+
+76: Wenisch OG, Noll J, Hemmen JL. Spontaneously emerging direction selectivity
+maps in visual cortex through STDP. Biol Cybern. 2005 Oct;93(4):239-47. Epub 2005
+Oct 19. PubMed PMID: 16195915.
+
+
+77: Wang HX, Gerkin RC, Nauen DW, Bi GQ. Coactivation and timing-dependent
+integration of synaptic potentiation and depression. Nat Neurosci. 2005
+Feb;8(2):187-93. Epub 2005 Jan 16. PubMed PMID: 15657596.
+
+
+78: Rubin JE, Gerkin RC, Bi GQ, Chow CC. Calcium time course as a signal for
+spike-timing-dependent plasticity. J Neurophysiol. 2005 May;93(5):2600-13. Epub
+2004 Dec 29. PubMed PMID: 15625097.
+
